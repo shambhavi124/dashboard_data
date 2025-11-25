@@ -1,3 +1,45 @@
+AI-Powered Data Cleaning Assistant is a smart and interactive tool built using Python, Streamlit, and Pandas that helps users clean and prepare datasets effortlessly. It identifies missing values, detects outliers, removes duplicate records, and even auto-generates SQL table schemas — all with a simple CSV upload.
+
+This project is designed for students, data analysts, and developers who want to automate data preprocessing tasks with an easy-to-use interface.
+
+🔥 Key Features
+
+Missing Value Detection – Automatically scans your dataset for null entries.
+
+Duplicate Handling – Identifies and removes duplicate rows.
+
+Outlier Detection – Highlights unusual values using statistical methods.
+
+SQL Schema Generator – Generates SQL CREATE TABLE scripts based on your dataset structure.
+
+Cleaned CSV Export – Download the cleaned dataset instantly.
+
+User-Friendly UI – Powered by Streamlit for an interactive and modern web experience.
+
+🧰 Tech Stack
+
+Python
+
+Pandas
+
+Streamlit
+
+Scikit-learn (optional for advanced detection)
+
+CSV / SQL
+
+🎯 Purpose
+
+This project simplifies the data-cleaning process, making it faster and more accurate. Perfect for:
+
+Data science learners
+
+Analysts preparing datasets
+
+Students building ML or BI projects
+
+Anyone working with messy CSV file
+
 1. Perfect Project Folder Structure
 
 Create your folder exactly like this:
@@ -95,29 +137,5 @@ Easy, fast, automated! ⚡
 
 This project is open-source and free to use.
 
-🎉 README.md Completed!
-✅ 3. Step-by-Step — Push to GitHub
-✔ Step 1: Open VS Code Terminal
 
-Click:
-Terminal → New Terminal
-
-✔ Step 2: Initialize Git
-git init
-
-✔ Step 3: Add All Files
-git add .
-
-✔ Step 4: Commit
-git commit -m "Initial commit - AI Data Cleaning Assistant"
-
-✔ Step 5: Add GitHub Repository
-
-Go to GitHub → Create new repo → Copy the URL.
-
-git remote add origin https://github.com/YOUR_USERNAME/AI-Data-Cleaning-Assistant.git
-
-✔ Step 6: Push
-git branch -M main
-git push -u origin main
 
