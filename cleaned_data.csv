@@ -1,0 +1,11 @@
+Name,Age,Salary,City,Experience,Department
+Asha,23.0,35000.0,Bangalore,1.0,HR
+Rahul,27.0,45000.0,Mysore,3.0,IT
+Kiran,22.0,,Hubli,2.0,
+Sneha,,50000.0,Bangalore,4.0,Finance
+Vikram,29.0,47000.0,Mysore,5.0,IT
+Megha,24.0,39000.0,Mangalore,,Admin
+Pranav,30.0,52000.0,Belgaum,6.0,IT
+Divya,,,Davangere,2.0,HR
+Rohit,26.0,41000.0,Udupi,3.0,
+Anita,28.0,46000.0,Bangalore,,Finance
